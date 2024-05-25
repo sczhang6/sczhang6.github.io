@@ -13,9 +13,15 @@ Previously, I reveived my B.Eng. degree from Beijing Univeristy of technology an
 
 Publications 
 ======
-Authiot: A transferable wireless authentication scheme for iot devices without input interface
+
+Authiot: A transferable wireless authentication scheme for IoT devices without input interface  
 ------
 **Shichen Zhang**, Pedram Kheirkhah Sangdeh, Hossein Pirayesh, Huacheng Zeng, Qiben Yan, Kai Zeng  
+IEEE Internet of Things Journal, 2024.
+
+Authiot: A transferable wireless authentication scheme for IoT devices without input interface  
+------
+Shichen Zhang, Pedram Kheirkhah Sangdeh, Hossein Pirayesh, Huacheng Zeng, Qiben Yan, Kai Zeng  
 IEEE Internet of Things Journal, 2024.
 
 
