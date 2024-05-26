@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Computer Science and Engineering, Michigan State University, 2024 (expected)
+* Ph.D. in Computer Science and Engineering, Michigan State University, 2024 (expected)
 * M.Eng. in Electrical and Computer Engineering, Cornell University, 2019
 * B.Eng. in Electrical Engineering, Beijing University of Technology, 2018
 
