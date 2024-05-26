@@ -13,16 +13,39 @@ Previously, I reveived my B.Eng. degree from Beijing Univeristy of technology an
 
 Publications 
 ======
+**Is driver on phone call? Mobile device localization using cellular signal**  
+**Shichen Zhang**, Huacheng Zeng, Y Thomas Hou  
+IEEE Journal on Selected Areas in Communications, 2024.  
 
-Authiot: A transferable wireless authentication scheme for IoT devices without input interface  
-------
+**TBP: Temporal beam prediction for mobile millimeter-wave networks**    
+**Shichen Zhang**, Qiben Yan, Tianxing Li, Li Xiao, Huacheng Zeng  
+IEEE Internet of Things Journal, 2024.  
+
+**mReader: Concurrent UHF RFID tag reading**
+Hossein Pirayesh, **Shichen Zhang**, Huacheng Zeng  
+ACM MobiHoc 2023.  
+
+**Realizing Uplink MU-MIMO Communication in mmWave WLANs: Bayesian Optimization and Asynchronous Transmission**  
+**Shichen Zhang**, Bo Ji, Kai Zeng, Huacheng Zeng  
+IEEE Infocom 2023. 
+
+**CF4FL: A communication framework for federated learning in transportation systems**  
+Pedram Kheirkhah Sangdeh, Chengzhang Li, Hossein Pirayesh, **Shichen Zhang**, Huacheng Zeng, Y Thomas Hou  
+IEEE Transactions on Wireless Communications, 2022.  
+
+**MaLoRaGW: Multi-user MIMO transmission for LoRa**  
+Hossein Pirayesh, **Shichen Zhang**, Pedram Kheirkhah Sangdeh, Huacheng Zeng  
+ACM SenSys 2022.  
+
+**Authiot: A transferable wireless authentication scheme for IoT devices without input interface**  [PDF](/files/Shichen22_JIoT_AuthIoT.pdf)
 **Shichen Zhang**, Pedram Kheirkhah Sangdeh, Hossein Pirayesh, Huacheng Zeng, Qiben Yan, Kai Zeng  
-IEEE Internet of Things Journal, 2024.
+IEEE Internet of Things Journal, 2022.  
 
-Authiot: A transferable wireless authentication scheme for IoT devices without input interface  
-------
-Shichen Zhang, Pedram Kheirkhah Sangdeh, Hossein Pirayesh, Huacheng Zeng, Qiben Yan, Kai Zeng  
-IEEE Internet of Things Journal, 2024.
+**JammingBird: Jamming-resilient communications for vehicular ad hoc networks**
+Hossein Pirayesh, Pedram Kheirkhah Sangdeh, **Shichen Zhang**, Qiben Yan, Huacheng Zeng  
+IEEE SECON 2021.  
+
+
 
 
 
