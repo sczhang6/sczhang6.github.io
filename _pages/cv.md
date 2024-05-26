@@ -11,54 +11,26 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Computer Science and Engineering, Michigan State University, 2024 (expected)
+* M.Eng. in Electrical and Computer Engineering, Cornell University, 2019
+* B.Eng. in Electrical Engineering, Beijing University of Technology, 2018
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+Teaching Experience
+======
+* Teaching Assistant: CSE422 - Computer Network (Fall 2021/ Spring 2023, MSU)
+  
+Professional Services
+======
+* Technical Program Committee
+  * IEEE Infocom Poster '22/'23/'24
+* Journal Review of 
+  * IEEE Journal on Selected Areas in Communcations (JSAC)
+  * IEEE Transactions on Vehicular Technology (TVT)
+  
+Awards
+======
+* Student Grant
+  * IEEE Infocom 2023
+  * POWDER-RENEW Mobile and Wireless Week 2023
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
