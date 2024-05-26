@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Shichen Zhang"
+title                    : "Shichen Zhang's Homepage"
 title_separator          : "-"
 name                     : &name "Shichen Zhang"
 description              : &description "personal description"
@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "shichen_profile.JPG"
   name             : "Shichen Zhang"
   pronouns         : # example: "she/her"  
   bio              : "Ph.D. student at Michigan State University"

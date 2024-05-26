@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. candidate from [INSS lab](https://inss.egr.msu.edu), department of Computer Science and Engineering, Michigan State University. My reserach focus on wireless networking and sensing, mobile computing, and artificial intelligence. My adviosr is [Dr. Huacheng Zeng](https://inss.egr.msu.edu/team.html). 
+Hi there! I am a Ph.D. candidate from [INSS lab](https://inss.egr.msu.edu), department of Computer Science and Engineering, Michigan State University. My reserach focus on wireless networking and sensing, mobile computing, and artificial intelligence. My adviosr is [Dr. Huacheng Zeng](https://inss.egr.msu.edu/team.html). 
 
-Previously, I reveived my B.Eng. degree from Beijing Univeristy of technology and M.Eng. degree from Cornell University. 
+Previously, I reveived my B.Eng. degree from Beijing Univeristy of Technology and M.Eng. degree from Cornell University. 
 
 Publications 
 ======
