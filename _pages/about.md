@@ -13,7 +13,12 @@ Previously, I reveived my B.Eng. degree from Beijing Univeristy of Technology an
 
 Publications 
 ======
-* **Is driver on phone call? Mobile device localization using cellular signal**  
+* **Structured Reinforcement Learning for Delay-Optimal Data Transmission in Dense mmWave
+Networks**\[[PDF](/files/RL_Dense_mmWave_IEEE_TWC_2024.pdf)\]   
+Shufan Wang, Guojun Xiong, <ins>Shichen Zhang</ins>, Huacheng Zeng, Jian Li, Shivendra Panwar  
+IEEE Journal on Selected Areas in Communications, 2024. 
+
+* **Is driver on phone call? Mobile device localization using cellular signal**\[[PDF](/files/Shichen24_JSAC_PhoLoc.pdf)\]   
 <ins>Shichen Zhang</ins>, Huacheng Zeng, Y Thomas Hou  
 IEEE Journal on Selected Areas in Communications, 2024.  
 
