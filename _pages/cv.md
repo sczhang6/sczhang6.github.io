@@ -26,6 +26,7 @@ Professional Services
   * IEEE Infocom Poster '22/'23/'24
 * Journal Review of 
   * IEEE Journal on Selected Areas in Communcations (JSAC)
+  * IEEE Transactions on Communication (TCOM)
   * IEEE Transactions on Vehicular Technology (TVT)
   
 Awards
