@@ -28,7 +28,7 @@ IEEE Journal on Selected Areas in Communications, 2024.
 
 * [TBP: Temporal beam prediction for mobile millimeter-wave networks](https://ieeexplore.ieee.org/abstract/document/10509774) \[[PDF](/files/tbp_shichen2024.pdf)\]       
 <ins>Shichen Zhang</ins>, Qiben Yan, Tianxing Li, Li Xiao, and Huacheng Zeng  
-IEEE Internet of Things Journal, 2024.  
+**IEEE Internet of Things Journal**, vol. 11, no. 14, pp. 24960-24972, July 2024.  
 
 * **mReader: Concurrent UHF RFID tag reading** \[[PDF](/files/mreader2023.pdf)\]   
 Hossein Pirayesh, <ins>Shichen Zhang</ins>, and Huacheng Zeng  
