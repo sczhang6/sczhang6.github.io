@@ -26,7 +26,7 @@ IEEE Transactions on Wireless Communications, 2024.
 <ins>Shichen Zhang</ins>, Huacheng Zeng, and Y. Thomas Hou  
 IEEE Journal on Selected Areas in Communications, 2024.  
 
-* **TBP: Temporal beam prediction for mobile millimeter-wave networks** \[[PDF](/files/tbp_shichen2024.pdf)\]       
+* [TBP: Temporal beam prediction for mobile millimeter-wave networks](https://ieeexplore.ieee.org/abstract/document/10509774) \[[PDF](/files/tbp_shichen2024.pdf)\]       
 <ins>Shichen Zhang</ins>, Qiben Yan, Tianxing Li, Li Xiao, and Huacheng Zeng  
 IEEE Internet of Things Journal, 2024.  
 
