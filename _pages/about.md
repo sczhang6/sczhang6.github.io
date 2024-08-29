@@ -34,7 +34,7 @@ IEEE Internet of Things Journal, 2024.
 Hossein Pirayesh, <ins>Shichen Zhang</ins>, and Huacheng Zeng  
 ACM MobiHoc 2023.  
 
-* **Realizing Uplink MU-MIMO Communication in mmWave WLANs: Bayesian Optimization and Asynchronous Transmission** \[[PDF](/files/shichen23_beamforming_infocom.pdf)\]  
+* **Realizing Uplink MU-MIMO Communication in mmWave WLANs: Bayesian Optimization and Asynchronous Transmission** \[[PDF](/files/shichen23_beamforming_infocom.pdf)\]\[[VIDEO](/https://youtu.be/Q2Bk7i6O5mg?si=VcKf3Wqf6PIlwBTb\]    
 <ins>Shichen Zhang</ins>, Bo Ji, Kai Zeng, and Huacheng Zeng  
 IEEE Infocom 2023.  
 
