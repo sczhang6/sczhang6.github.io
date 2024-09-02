@@ -13,9 +13,9 @@ Previously, I reveived my B.Eng. degree from Beijing Univeristy of Technology an
 
 Publications 
 ======
-* [RadSee: See Your Handwriting ThroughWall Using 6GHz FMCW Radar]()   
+* [RadSee: See Your Handwriting Through Wall Using 6GHz FMCW Radar]()   
 <ins>Shichen Zhang</ins>, Qijun Wang, Maolin Gan, Zhichao Cao and Huacheng Zeng   
-**NDSS, 2025**.   
+**NDSS Symposium, 2025**.   
 
 * [SiWiS: Fine-grained Human Detection Using Single WiFi Device]()   
 Kunzhe Song, Qijun Wang, <ins>Shichen Zhang</ins>, and Huacheng Zeng   
