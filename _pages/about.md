@@ -15,16 +15,16 @@ Publications
 ======
 * [RadSee: See Your Handwriting Through Wall Using 6GHz FMCW Radar]()   
 <ins>Shichen Zhang</ins>, Qijun Wang, Maolin Gan, Zhichao Cao and Huacheng Zeng   
-**NDSS Symposium, 2025**.   
+**NDSS Symposium 2025**.   
 
 * [SiWiS: Fine-grained Human Detection Using Single WiFi Device]()   
 Kunzhe Song, Qijun Wang, <ins>Shichen Zhang</ins>, and Huacheng Zeng   
-**ACM MobiCom, 2024**.   
+**ACM MobiCom 2024**.   
 
 * [Structured Reinforcement Learning for Delay-Optimal Data Transmission in Dense mmWave
 Networks](https://ieeexplore.ieee.org/document/10577588) \[[PDF](/files/RL_Dense_mmWave_IEEE_TWC_2024.pdf)\]   
 Shufan Wang, Guojun Xiong, <ins>Shichen Zhang</ins>, Huacheng Zeng, Jian Li, and Shivendra Panwar  
-**IEEE Transactions on Wireless Communications**, 2024. 
+**IEEE Transactions on Wireless Communications** 2024. 
 
 * [Is Driver on Phone Call? Mobile Device Localization Using Cellular Signal](https://ieeexplore.ieee.org/document/10556782) \[[PDF](/files/Shichen24_JSAC_PhoLoc.pdf)\]   
 <ins>Shichen Zhang</ins>, Huacheng Zeng, and Y. Thomas Hou  
