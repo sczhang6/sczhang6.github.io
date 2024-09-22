@@ -13,7 +13,7 @@ Previously, I reveived my B.Eng. degree from Beijing Univeristy of Technology an
 
 Publications 
 ======
-* [RadSee: See Your Handwriting Through Wall Using 6GHz FMCW Radar]()   
+* [RadSee: See Your Handwriting Through Wall Using 6GHz FMCW Radar]() \[[PDF](/files/Shichen25_NDSS_Radsee.pdf)\]     
 <ins>Shichen Zhang</ins>, Qijun Wang, Maolin Gan, Zhichao Cao and Huacheng Zeng   
 **NDSS Symposium 2025**.   
 
