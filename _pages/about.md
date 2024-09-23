@@ -17,7 +17,7 @@ Publications
 <ins>Shichen Zhang</ins>, Qijun Wang, Maolin Gan, Zhichao Cao and Huacheng Zeng   
 **NDSS Symposium 2025**.   
 
-* [SiWiS: Fine-grained Human Detection Using Single WiFi Device]()   
+* [SiWiS: Fine-grained Human Detection Using Single WiFi Device]()  \[[PDF](/files/mobicom24-final.pdf)\]      
 Kunzhe Song, Qijun Wang, <ins>Shichen Zhang</ins>, and Huacheng Zeng   
 **ACM MobiCom 2024**.   
 
