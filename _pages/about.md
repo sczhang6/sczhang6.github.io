@@ -73,11 +73,13 @@ Ubiquitous sensing technologies enable smart home environments to monitor indivi
 <iframe width="224" height="126" src="https://www.youtube.com/embed/TeO4zp0u8HI?si=nSz2HQUC85IMfgSU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
-**Uplink MU-MIMO mmWave real-time Communication**\[IEEE Infocom 2023\]
-With the rapid proliferation of mobile devices, the marriage of millimeter-wave (mmWave) and MIMO technologies is a natural trend to meet the communication demand of data-hungry applications. Following this trend, mmWave multi- user MIMO (MU-MIMO) has been standardized by the IEEE 802.11ay for its downlink to achieve multi-Gbps data rate. Yet, its uplink counterpart has not been well studied, and its way to wireless local area networks (WLANs) remains unclear. In this project, we present a practical uplink MU-MIMO mmWave communication (UMMC) scheme for WLANs. UMMC has two key components: 
+
+
+**Uplink MU-MIMO mmWave real-time Communication** \[IEEE Infocom 2023\]   
+With the rapid proliferation of mobile devices, the marriage of millimeter-wave (mmWave) and MIMO technologies is a natural trend to meet the communication demand of data-hungry applications. Following this trend, mmWave multi-user MIMO (MU-MIMO) has been standardized by the IEEE 802.11ay for its downlink to achieve multi-Gbps data rate. Yet, its uplink counterpart has not been well studied, and its way to wireless local area networks (WLANs) remains unclear. In this project, we present a practical uplink MU-MIMO mmWave communication (UMMC) scheme for WLANs. UMMC has two key components: 
 
 * An efficient Bayesian optimization (BayOpt) framework for joint beam search over multiple directional antennas
-* A new MU-MIMO detector that can decode asynchronous data packets from multiple user devices.
+* A new MU-MIMO detector that can decode asynchronous data packets from multiple user devices
 
 <iframe width="448" height="252" src="https://www.youtube.com/embed/Q2Bk7i6O5mg?si=Zbb9m_KIOPGpJF4R" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> 
 
