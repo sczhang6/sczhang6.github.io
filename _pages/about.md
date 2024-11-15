@@ -58,14 +58,6 @@ Hossein Pirayesh, <ins>Shichen Zhang</ins>, Pedram Kheirkhah Sangdeh, and Huache
 Hossein Pirayesh, Pedram Kheirkhah Sangdeh, <ins>Shichen Zhang</ins>, Qiben Yan, and Huacheng Zeng  
 **IEEE SECON 2021**.  
 
-Publications
-======
 
-<img src="http://ydren001.github.io/images/title-fig/SateRIoT.png" align="left" width="243" height="135" style="margin-right: 15px;"/> 
-* [RadSee: See Your Handwriting Through Wall Using 6GHz FMCW Radar]() \[[PDF](/files/Shichen25_NDSS_Radsee.pdf)\]     
-<ins>Shichen Zhang</ins>, Qijun Wang, Maolin Gan, Zhichao Cao and Huacheng Zeng   
-**NDSS Symposium 2025**.   
-
-<br>
 
 
