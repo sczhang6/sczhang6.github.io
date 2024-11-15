@@ -13,9 +13,20 @@ Previously, I reveived my B.Eng. degree from Beijing Univeristy of Technology an
 
 Project Demo
 ======
-<iframe width="448" height="252" src="https://www.youtube.com/embed/Q2Bk7i6O5mg?si=Zbb9m_KIOPGpJF4R" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+**Radio Sensing: Heartbeat and breathing rate detection using 6GHz FMCW radar**  
+Ubiquitous sensing technologies enable smart home environments to monitor individuals' health status in their daily lives. In this project, we developed a 6 GHz FMCW radar system capable of measuring heartbeat and breathing rate in a contactless manner. Our system leverages the fact that radio signals are influenced by inhaling and exhaling motions, as well as the skin vibrations caused by heartbeats. The accompanying video demonstrates our system's ability to measure heartbeats and breathing rates in real time. The key features of our design include:
 
-<iframe width="448" height="252" src="https://www.youtube.com/embed/TeO4zp0u8HI?si=nSz2HQUC85IMfgSU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+* Real-time measurement of heartbeat and breathing rate
+* Integrated hardware and software design
+* Dedicated signal processing pipeline
+
+<iframe width="224" height="126" src="https://www.youtube.com/embed/TeO4zp0u8HI?si=nSz2HQUC85IMfgSU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+<iframe width="448" height="252" src="https://www.youtube.com/embed/Q2Bk7i6O5mg?si=Zbb9m_KIOPGpJF4R" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>   
+
+
+
 
 Publications 
 ======
