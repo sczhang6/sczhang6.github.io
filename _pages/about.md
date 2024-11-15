@@ -11,32 +11,16 @@ Hello! I'm a Ph.D. candidate in the Department of Computer Science and Engineeri
 
 Previously, I reveived my B.Eng. degree from Beijing Univeristy of Technology and M.Eng. degree from Cornell University. 
 
-Project Demo
-======
-**Radio Sensing: Heartbeat and breathing rate detection using 6GHz FMCW radar**  
-Ubiquitous sensing technologies enable smart home environments to monitor individuals' health status in their daily lives. In this project, we developed a 6 GHz FMCW radar system capable of measuring heartbeat and breathing rate in a contactless manner. Our system leverages the fact that radio signals are influenced by inhaling and exhaling motions, as well as the skin vibrations caused by heartbeats. The accompanying video demonstrates our system's ability to measure heartbeats and breathing rates in real time. The key features of our design include:
-
-* Real-time measurement of heartbeat and breathing rate
-* Integrated hardware and software design
-* Dedicated signal processing pipeline
-
-<iframe width="224" height="126" src="https://www.youtube.com/embed/TeO4zp0u8HI?si=nSz2HQUC85IMfgSU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-
-<iframe width="448" height="252" src="https://www.youtube.com/embed/Q2Bk7i6O5mg?si=Zbb9m_KIOPGpJF4R" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>   
-
-
-
-
+  
 Publications 
 ======
 * [RadSee: See Your Handwriting Through Wall Using 6GHz FMCW Radar]() \[[PDF](/files/Shichen25_NDSS_Radsee.pdf)\]     
 <ins>Shichen Zhang</ins>, Qijun Wang, Maolin Gan, Zhichao Cao and Huacheng Zeng   
-**NDSS Symposium 2025**.   
+**NDSS Symposium 2025**. \[Acceptance rate: 19.8%\] 
 
 * [SiWiS: Fine-grained Human Detection Using Single WiFi Device]()  \[[PDF](/files/mobicom24-final.pdf)\]      
 Kunzhe Song, Qijun Wang, <ins>Shichen Zhang</ins>, and Huacheng Zeng   
-**ACM MobiCom 2024**.   
+**ACM MobiCom 2024**. \[Acceptance rate: 19.1%\]    
 
 * [Structured Reinforcement Learning for Delay-Optimal Data Transmission in Dense mmWave
 Networks](https://ieeexplore.ieee.org/document/10577588) \[[PDF](/files/RL_Dense_mmWave_IEEE_TWC_2024.pdf)\]   
@@ -53,11 +37,11 @@ Shufan Wang, Guojun Xiong, <ins>Shichen Zhang</ins>, Huacheng Zeng, Jian Li, and
 
 * [mReader: Concurrent UHF RFID Tag Reading](https://dl.acm.org/doi/10.1145/3565287.3610256) \[[PDF](/files/mreader2023.pdf)\]   
 Hossein Pirayesh, <ins>Shichen Zhang</ins>, and Huacheng Zeng  
-**ACM MobiHoc 2023**.  
+**ACM MobiHoc 2023**.  \[Acceptance rate: 21.9%\]   
 
 * [Realizing Uplink MU-MIMO Communication in mmWave WLANs: Bayesian Optimization and Asynchronous Transmission](https://ieeexplore.ieee.org/document/10228888) \[[PDF](/files/shichen23_beamforming_infocom.pdf)\]\[[VIDEO](https://youtu.be/Q2Bk7i6O5mg?si=VcKf3Wqf6PIlwBTb)\]    
 <ins>Shichen Zhang</ins>, Bo Ji, Kai Zeng, and Huacheng Zeng  
-**IEEE Infocom 2023**.  
+**IEEE Infocom 2023**.  \[Acceptance rate: 19.2%\]  
 
 * [CF4FL: A Communication Famework for Federated Learning in Transportation Systems](https://ieeexplore.ieee.org/document/9961228) \[[PDF](/files/Pedram22_TWC_CF4FL.pdf)\]  
 Pedram Kheirkhah Sangdeh, Chengzhang Li, Hossein Pirayesh, <ins>Shichen Zhang</ins>, Huacheng Zeng, and Y. Thomas Hou  
@@ -76,5 +60,25 @@ Hossein Pirayesh, Pedram Kheirkhah Sangdeh, <ins>Shichen Zhang</ins>, Qiben Yan,
 **IEEE SECON 2021**.  
 
 
+Project Demo
+======
+**Radio Sensing: Heartbeat and breathing rate detection using 6GHz FMCW radar**  
+Ubiquitous sensing technologies enable smart home environments to monitor individuals' health status in their daily lives. In this project, we developed a 6 GHz FMCW radar system capable of measuring heartbeat and breathing rate in a contactless manner. Our system leverages the fact that radio signals are influenced by inhaling and exhaling motions, as well as the skin vibrations caused by heartbeats. The accompanying video demonstrates our system's ability to measure heartbeats and breathing rates in real time. The key features of our design include:
+
+* Real-time measurement of heartbeat and breathing rate
+* Integrated hardware and software design
+* Dedicated signal processing pipeline
+
+<div style="text-align: center;">
+<iframe width="224" height="126" src="https://www.youtube.com/embed/TeO4zp0u8HI?si=nSz2HQUC85IMfgSU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+
+**Uplink MU-MIMO mmWave real-time Communication**\[IEEE Infocom 2023\]
+With the rapid proliferation of mobile devices, the marriage of millimeter-wave (mmWave) and MIMO technologies is a natural trend to meet the communication demand of data-hungry applications. Following this trend, mmWave multi- user MIMO (MU-MIMO) has been standardized by the IEEE 802.11ay for its downlink to achieve multi-Gbps data rate. Yet, its uplink counterpart has not been well studied, and its way to wireless local area networks (WLANs) remains unclear. In this project, we present a practical uplink MU-MIMO mmWave communication (UMMC) scheme for WLANs. UMMC has two key components: 
+
+* An efficient Bayesian optimization (BayOpt) framework for joint beam search over multiple directional antennas
+* A new MU-MIMO detector that can decode asynchronous data packets from multiple user devices.
+
+<iframe width="448" height="252" src="https://www.youtube.com/embed/Q2Bk7i6O5mg?si=Zbb9m_KIOPGpJF4R" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> 
 
 
