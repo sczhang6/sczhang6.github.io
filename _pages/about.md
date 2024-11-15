@@ -62,12 +62,9 @@ Publications
 ======
 
 <img src="http://ydren001.github.io/images/title-fig/SateRIoT.png" align="left" width="243" height="135" style="margin-right: 15px;"/> 
-<button type="button" class="btn btn-primary" style="font-size: 15px; background-color: #85c1e9; color: white; padding: 4px 6px; border-radius: 3px;"><b>MobiCom 2024</b></button>
-<b>This is test</b><br>
-<span style="color:orange"><b>Yidong Ren</b></span>, this is test<br>
-<I>The 30th Annual International Conference on Mobile Computing and Networking, 2024 </i> <br>
-<i>[[PDF]](https://cse.msu.edu/~caozc/papers/mobicom24-ren-sateriot.pdf) <br clear="left"/>
-<font size="1"> </font>
+* [RadSee: See Your Handwriting Through Wall Using 6GHz FMCW Radar]() \[[PDF](/files/Shichen25_NDSS_Radsee.pdf)\]     
+<ins>Shichen Zhang</ins>, Qijun Wang, Maolin Gan, Zhichao Cao and Huacheng Zeng   
+**NDSS Symposium 2025**.   
 
 <br>
 
