@@ -19,7 +19,7 @@ Publications
 <ins>Shichen Zhang</ins>, Qijun Wang, Maolin Gan, Zhichao Cao and Huacheng Zeng   
 **NDSS Symposium 2025**. \[Acceptance rate: 19.8%\] 
 
-img src="/images/Radsee_teaser.png" align="left" width="243" height="135" style="margin-right: 15px;"/>  
+<img src="/images/Radsee_teaser.png" align="left" width="243" height="135" style="margin-right: 15px;"/>  
 <b>RadSee: See Your Handwriting Through Wall Using 6GHz FMCW Radar</b><br>
 <ins>Shichen Zhang</ins>, Qijun Wang, Maolin Gan, Zhichao Cao and Huacheng Zeng  
 <br>
