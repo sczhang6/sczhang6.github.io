@@ -64,10 +64,16 @@ Hossein Pirayesh, Pedram Kheirkhah Sangdeh, <ins>Shichen Zhang</ins>, Qiben Yan,
 <b>RadSee: See Your Handwriting Through Wall Using 6GHz FMCW Radar</b><br>
 <b>Shichen Zhang</b>, Qijun Wang, Maolin Gan, Zhichao Cao and Huacheng Zeng<br>
 <b>NDSS Symposium 2025</b> <br>
-<font size="1"> </font>
 <i>[[PDF]](/files/Shichen25_NDSS_Radsee.pdf) <br>
 <br>
 <br>
+
+![image](https://zhihuigao.github.io/images/MAMBAS.jpg){: style="float: left; margin-top: 0.3em; margin-right: 1em;" width="200"}
+RadSee: See Your Handwriting Through Wall Using 6GHz FMCW Radar.<br>
+  **Shichen Zhang**, Qijun Wang, Maolin Gan, Zhichao Cao and Huacheng Zeng.<br>
+  **NDSS Symposium 2025.<br>
+  [[pdf](/files/Shichen25_NDSS_Radsee.pdf)]
+  </div>
 
 
 Project Demo
