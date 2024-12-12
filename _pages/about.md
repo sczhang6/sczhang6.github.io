@@ -65,7 +65,7 @@ Hossein Pirayesh, Pedram Kheirkhah Sangdeh, <ins>Shichen Zhang</ins>, Qiben Yan,
 <b>Shichen Zhang</b>, Qijun Wang, Maolin Gan, Zhichao Cao and Huacheng Zeng<br>
 <b>NDSS Symposium 2025</b> <br>
 <font size="1"> </font>
-<i>[[PDF]](/files/Shichen25_NDSS_Radsee.pdf) <br clear="left"/>
+<i>[[PDF]](/files/Shichen25_NDSS_Radsee.pdf) <br>
 <br>
 <br>
 
