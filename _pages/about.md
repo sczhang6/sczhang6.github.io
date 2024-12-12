@@ -60,13 +60,10 @@ Hossein Pirayesh, <ins>Shichen Zhang</ins>, Pedram Kheirkhah Sangdeh, and Huache
 Hossein Pirayesh, Pedram Kheirkhah Sangdeh, <ins>Shichen Zhang</ins>, Qiben Yan, and Huacheng Zeng  
 **IEEE SECON 2021**.  
 
-<img src="/images/Radsee_teaser.png" align="left" style="vertical-align: middle; width: 233px; height: 140px;">
-<b>RadSee: See Your Handwriting Through Wall Using 6GHz FMCW Radar</b><br>
+<img src="/images/Radsee_teaser.png" align="left" style="vertical-align: middle; width: 233px; height: 130px;">
+<b>RadSee: See Your Handwriting Through Wall Using 6GHz FMCW Radar</b> i>[[PDF]](/files/Shichen25_NDSS_Radsee.pdf)<br>
 <b>Shichen Zhang</b>, Qijun Wang, Maolin Gan, Zhichao Cao and Huacheng Zeng<br>
 <b>NDSS Symposium 2025</b> <br>
-<i>[[PDF]](/files/Shichen25_NDSS_Radsee.pdf) <br clear="left"/>
-<font size="1"> </font>
-
 
 <br>
 
