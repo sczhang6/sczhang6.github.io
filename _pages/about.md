@@ -14,7 +14,7 @@ Previously, I reveived my B.Eng. degree from Beijing Univeristy of Technology an
   
 Publications 
 ======
-<img src="/images/Radsee_teaser.png" align="left" style="vertical-align: middle; width: 233px; height: 130px;">
+<img src="/images/Radsee_teaser.png" align="left" style="vertical-align: middle; width: 233px; height: 130px;  margin-right: 15px;">
 
 <b>RadSee: See Your Handwriting Through Wall Using 6GHz FMCW Radar</b> <I>[[PDF]](/files/Shichen25_NDSS_Radsee.pdf)</i><br>
 <b>Shichen Zhang</b>, Qijun Wang, Maolin Gan, Zhichao Cao and Huacheng Zeng<br>
@@ -22,7 +22,7 @@ Publications
 
 <br clear="left">
 
-<img src="/images/Swis_teaser.png" align="left" style="vertical-align: middle; width: 233px; height: 130px;">
+<img src="/images/Swis_teaser.png" align="left" style="vertical-align: middle; width: 233px; height: 130px;  margin-right: 15px;">
 
 <b>SiWiS: Fine-grained Human Detection Using Single WiFi Device</b> <I>[[PDF]](/files/mobicom24-final.pdf)</i><br>
 Kunzhe Song, Qijun Wang, <b>Shichen Zhang</b>, and Huacheng Zeng<br>
@@ -30,7 +30,7 @@ Kunzhe Song, Qijun Wang, <b>Shichen Zhang</b>, and Huacheng Zeng<br>
 
 <br clear="left">
 
-<img src="/images/Rinf_teaser.png" align="left" style="vertical-align: middle; width: 233px; height: 130px;">
+<img src="/images/Rinf_teaser.png" align="left" style="vertical-align: middle; width: 233px; height: 130px;  margin-right: 15px; ">
 
 <b>Structured Reinforcement Learning for Delay-Optimal Data Transmission in Dense mmWave
 Networks</b> <I>[[PDF]](/files/RL_Dense_mmWave_IEEE_TWC_2024.pdf)</i><br>
