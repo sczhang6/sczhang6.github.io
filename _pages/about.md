@@ -14,59 +14,13 @@ Previously, I reveived my B.Eng. degree from Beijing Univeristy of Technology an
   
 Publications 
 ======
-* [RadSee: See Your Handwriting Through Wall Using 6GHz FMCW Radar]() \[[PDF](/files/Shichen25_NDSS_Radsee.pdf)\]     
-<ins>Shichen Zhang</ins>, Qijun Wang, Maolin Gan, Zhichao Cao and Huacheng Zeng   
-**NDSS Symposium 2025**. \[Acceptance rate: 19.8%\]   
-
-
-* [SiWiS: Fine-grained Human Detection Using Single WiFi Device]()  \[[PDF](/files/mobicom24-final.pdf)\]      
-Kunzhe Song, Qijun Wang, <ins>Shichen Zhang</ins>, and Huacheng Zeng   
-**ACM MobiCom 2024**. \[Acceptance rate: 19.1%\]    
-
-* [Structured Reinforcement Learning for Delay-Optimal Data Transmission in Dense mmWave
-Networks](https://ieeexplore.ieee.org/document/10577588) \[[PDF](/files/RL_Dense_mmWave_IEEE_TWC_2024.pdf)\]   
-Shufan Wang, Guojun Xiong, <ins>Shichen Zhang</ins>, Huacheng Zeng, Jian Li, and Shivendra Panwar  
-**IEEE Transactions on Wireless Communications** 2024. 
-
-* [Is Driver on Phone Call? Mobile Device Localization Using Cellular Signal](https://ieeexplore.ieee.org/document/10556782) \[[PDF](/files/Shichen24_JSAC_PhoLoc.pdf)\]   
-<ins>Shichen Zhang</ins>, Huacheng Zeng, and Y. Thomas Hou  
-**IEEE Journal on Selected Areas in Communications**, vol. 42, no. 9, pp. 2339-2353, Sept. 2024.  
-
-* [TBP: Temporal Beam Prediction for Mobile Millimeter-Wave Networks](https://ieeexplore.ieee.org/abstract/document/10509774) \[[PDF](/files/tbp_shichen2024.pdf)\]       
-<ins>Shichen Zhang</ins>, Qiben Yan, Tianxing Li, Li Xiao, and Huacheng Zeng  
-**IEEE Internet of Things Journal**, vol. 11, no. 14, pp. 24960-24972, July 2024.  
-
-* [mReader: Concurrent UHF RFID Tag Reading](https://dl.acm.org/doi/10.1145/3565287.3610256) \[[PDF](/files/mreader2023.pdf)\]   
-Hossein Pirayesh, <ins>Shichen Zhang</ins>, and Huacheng Zeng  
-**ACM MobiHoc 2023**.  \[Acceptance rate: 21.9%\]   
-
-* [Realizing Uplink MU-MIMO Communication in mmWave WLANs: Bayesian Optimization and Asynchronous Transmission](https://ieeexplore.ieee.org/document/10228888) \[[PDF](/files/shichen23_beamforming_infocom.pdf)\]\[[VIDEO](https://youtu.be/Q2Bk7i6O5mg?si=VcKf3Wqf6PIlwBTb)\]    
-<ins>Shichen Zhang</ins>, Bo Ji, Kai Zeng, and Huacheng Zeng  
-**IEEE Infocom 2023**.  \[Acceptance rate: 19.2%\]  
-
-* [CF4FL: A Communication Famework for Federated Learning in Transportation Systems](https://ieeexplore.ieee.org/document/9961228) \[[PDF](/files/Pedram22_TWC_CF4FL.pdf)\]  
-Pedram Kheirkhah Sangdeh, Chengzhang Li, Hossein Pirayesh, <ins>Shichen Zhang</ins>, Huacheng Zeng, and Y. Thomas Hou  
-**IEEE Transactions on Wireless Communications**, vol. 22, no. 6, pp. 3821-3836, June 2023.    
-
-* [MaLoRaGW: Multi-User MIMO Transmission for LoRa](https://dl.acm.org/doi/10.1145/3560905.3568533) \[[PDF](/files/Hossein22_Sensys_MaLoRaGW.pdf)\]  
-Hossein Pirayesh, <ins>Shichen Zhang</ins>, Pedram Kheirkhah Sangdeh, and Huacheng Zeng  
-**ACM SenSys 2022**.  
-
-* [AuthIoT: A Transferable Wireless Authentication Scheme for IoT Devices Without Input Interface](https://ieeexplore.ieee.org/document/9807277) \[[PDF](/files/Shichen22_JIoT_AuthIoT.pdf)\]  
-<ins>Shichen Zhang</ins>, Pedram Kheirkhah Sangdeh, Hossein Pirayesh, Huacheng Zeng, Qiben Yan, and Kai Zeng  
-**IEEE Internet of Things Journal**,  vol. 9, no. 22, pp. 23072-23085, Nov. 2022.  
-
-* [JammingBird: Jamming-resilient Communications for Vehicular Ad Hoc Networks](https://ieeexplore.ieee.org/document/9491603) \[[PDF](/files/Hossein_JammingBird.pdf)\]  
-Hossein Pirayesh, Pedram Kheirkhah Sangdeh, <ins>Shichen Zhang</ins>, Qiben Yan, and Huacheng Zeng  
-**IEEE SECON 2021**.  
-
 <img src="/images/Radsee_teaser.png" align="left" style="vertical-align: middle; width: 233px; height: 130px;">
 
 <b>RadSee: See Your Handwriting Through Wall Using 6GHz FMCW Radar</b> <I>[[PDF]](/files/Shichen25_NDSS_Radsee.pdf)</i><br>
 <b>Shichen Zhang</b>, Qijun Wang, Maolin Gan, Zhichao Cao and Huacheng Zeng<br>
 <I><b>NDSS Symposium 2025</b> \[Acceptance rate: 19.8%\]</i> <br>
 
-<br>
+<br clear="left">
 
 <img src="/images/Swis_teaser.png" align="left" style="vertical-align: middle; width: 233px; height: 130px;">
 
@@ -74,7 +28,7 @@ Hossein Pirayesh, Pedram Kheirkhah Sangdeh, <ins>Shichen Zhang</ins>, Qiben Yan,
 Kunzhe Song, Qijun Wang, <b>Shichen Zhang</b>, and Huacheng Zeng<br>
 <I><b>ACM MobiCom 2024</b> \[Acceptance rate: 19.1%\]</i> <br>
 
-<br>
+<br clear="left">
 
 <img src="/images/Rinf_teaser.png" align="left" style="vertical-align: middle; width: 233px; height: 130px;">
 
@@ -83,7 +37,7 @@ Networks</b> <I>[[PDF]](/files/RL_Dense_mmWave_IEEE_TWC_2024.pdf)</i><br>
 Shufan Wang, Guojun Xiong, <b>Shichen Zhang</b>, Huacheng Zeng, Jian Li, and Shivendra Panwar  
 <I><b>IEEE Transactions on Wireless Communications</b>,2024</i> <br>
 
-<br>
+<br clear="left">
 
 <img src="/images/PhoneLoc_teaser.png" align="left" style="vertical-align: middle; width: 233px; height: 130px; margin-right: 15px;">
 <b>Is Driver on Phone Call? Mobile Device Localization Using Cellular Signal</b> <i><a href="/files/Shichen24_JSAC_PhoLoc.pdf">[PDF]</a></i><br>
@@ -95,7 +49,7 @@ Shufan Wang, Guojun Xiong, <b>Shichen Zhang</b>, Huacheng Zeng, Jian Li, and Shi
 <img src="/images/TBP_teaser.png" align="left" style="vertical-align: middle; width: 233px; height: 140px; margin-right: 15px;">
 
 <b>TBP: Temporal Beam Prediction for Mobile Millimeter-Wave Networks</b> <i><a href="/files/tbp_shichen2024.pdf">[PDF]</a></i><br>
-<ins>Shichen Zhang</ins>, Qiben Yan, Tianxing Li, Li Xiao, and Huacheng Zeng<br>
+<b>Shichen Zhang</b>, Qiben Yan, Tianxing Li, Li Xiao, and Huacheng Zeng<br>
 <i><b>IEEE Internet of Things Journal</b>, vol. 11, no. 14, pp. 24960-24972, July 2024.</i><br>
 
 <br clear="left">
@@ -103,7 +57,7 @@ Shufan Wang, Guojun Xiong, <b>Shichen Zhang</b>, Huacheng Zeng, Jian Li, and Shi
 <img src="/images/mReader_teaser.png" align="left" style="vertical-align: middle; width: 233px; height: 130px; margin-right: 15px;">
 
 <b>mReader: Concurrent UHF RFID Tag Reading</b> <i><a href="/files/mreader2023.pdf">[PDF]</a></i><br>
-Hossein Pirayesh, <ins>Shichen Zhang</ins>, and Huacheng Zeng<br>
+Hossein Pirayesh, <b>Shichen Zhang</b>, and Huacheng Zeng<br>
 <i><b>ACM MobiHoc 2023</b></i> [Acceptance rate: 21.9%]<br>
 
 <br clear="left">
@@ -111,7 +65,7 @@ Hossein Pirayesh, <ins>Shichen Zhang</ins>, and Huacheng Zeng<br>
 <img src="/images/Beamforming_teaser.png" align="left" style="vertical-align: middle; width: 233px; height: 130px; margin-right: 15px;">
 
 <b>Realizing Uplink MU-MIMO Communication in mmWave WLANs: Bayesian Optimization and Asynchronous Transmission</b> <i><a href="/files/shichen23_beamforming_infocom.pdf">[PDF]</a> | <a href="https://youtu.be/Q2Bk7i6O5mg?si=VcKf3Wqf6PIlwBTb">[VIDEO]</a></i><br>
-<ins>Shichen Zhang</ins>, Bo Ji, Kai Zeng, and Huacheng Zeng<br>
+<b>Shichen Zhang</b>, Bo Ji, Kai Zeng, and Huacheng Zeng<br>
 <i><b>IEEE Infocom 2023</b></i> [Acceptance rate: 19.2%]<br>
 
 <br clear="left">
@@ -119,7 +73,7 @@ Hossein Pirayesh, <ins>Shichen Zhang</ins>, and Huacheng Zeng<br>
 <img src="/images/CF4FL_teaser.png" align="left" style="vertical-align: middle; width: 233px; height: 140px; margin-right: 15px;">
 
 <b>CF4FL: A Communication Framework for Federated Learning in Transportation Systems</b> <i><a href="/files/Pedram22_TWC_CF4FL.pdf">[PDF]</a></i><br>
-Pedram Kheirkhah Sangdeh, Chengzhang Li, Hossein Pirayesh, <ins>Shichen Zhang</ins>, Huacheng Zeng, and Y. Thomas Hou<br>
+Pedram Kheirkhah Sangdeh, Chengzhang Li, Hossein Pirayesh, <b>Shichen Zhang</b>, Huacheng Zeng, and Y. Thomas Hou<br>
 <i><b>IEEE Transactions on Wireless Communications</b>, vol. 22, no. 6, pp. 3821-3836, June 2023.</i><br>
 
 <br clear="left">
@@ -127,7 +81,7 @@ Pedram Kheirkhah Sangdeh, Chengzhang Li, Hossein Pirayesh, <ins>Shichen Zhang</i
 <img src="/images/MaLoRaGW_teaser.png" align="left" style="vertical-align: middle; width: 233px; height: 130px; margin-right: 15px;">
 
 <b>MaLoRaGW: Multi-User MIMO Transmission for LoRa</b> <i><a href="/files/Hossein22_Sensys_MaLoRaGW.pdf">[PDF]</a></i><br>
-Hossein Pirayesh, <ins>Shichen Zhang</ins>, Pedram Kheirkhah Sangdeh, and Huacheng Zeng<br>
+Hossein Pirayesh, <b>Shichen Zhang</b>, Pedram Kheirkhah Sangdeh, and Huacheng Zeng<br>
 <i><b>ACM SenSys 2022</b></i><br>
 
 <br clear="left">
@@ -135,7 +89,7 @@ Hossein Pirayesh, <ins>Shichen Zhang</ins>, Pedram Kheirkhah Sangdeh, and Huache
 <img src="/images/AuthIoT_teaser.png" align="left" style="vertical-align: middle; width: 233px; height: 140px; margin-right: 15px;">
 
 <b>AuthIoT: A Transferable Wireless Authentication Scheme for IoT Devices Without Input Interface</b> <i><a href="/files/Shichen22_JIoT_AuthIoT.pdf">[PDF]</a></i><br>
-<ins>Shichen Zhang</ins>, Pedram Kheirkhah Sangdeh, Hossein Pirayesh, Huacheng Zeng, Qiben Yan, and Kai Zeng<br>
+<b>Shichen Zhang</b>, Pedram Kheirkhah Sangdeh, Hossein Pirayesh, Huacheng Zeng, Qiben Yan, and Kai Zeng<br>
 <i><b>IEEE Internet of Things Journal</b>, vol. 9, no. 22, pp. 23072-23085, Nov. 2022.</i><br>
 
 <br clear="left">
@@ -143,7 +97,7 @@ Hossein Pirayesh, <ins>Shichen Zhang</ins>, Pedram Kheirkhah Sangdeh, and Huache
 <img src="/images/JammingBird_teaser.png" align="left" style="vertical-align: middle; width: 233px; height: 130px; margin-right: 15px;">
 
 <b>JammingBird: Jamming-resilient Communications for Vehicular Ad Hoc Networks</b> <i><a href="/files/Hossein_JammingBird.pdf">[PDF]</a></i><br>
-Hossein Pirayesh, Pedram Kheirkhah Sangdeh, <ins>Shichen Zhang</ins>, Qiben Yan, and Huacheng Zeng<br>
+Hossein Pirayesh, Pedram Kheirkhah Sangdeh, <b>Shichen Zhang</b>, Qiben Yan, and Huacheng Zeng<br>
 <i><b>IEEE SECON 2021</b></i><br>
 
 <br clear="left">
