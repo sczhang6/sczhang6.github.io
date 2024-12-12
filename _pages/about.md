@@ -82,6 +82,13 @@ Shufan Wang, Guojun Xiong, <b>Shichen Zhang</b>, Huacheng Zeng, Jian Li, and Shi
 
 <br>
 
+<img src="/images/PhoneLoc_teaser.png" align="left" style="vertical-align: middle; width: 233px; height: 130px; margin-right: 15px;">
+<b>Is Driver on Phone Call? Mobile Device Localization Using Cellular Signal</b> <i><a href="/files/Shichen24_JSAC_PhoLoc.pdf">[PDF]</a></i><br>
+<ins>Shichen Zhang</ins>, Huacheng Zeng, and Y. Thomas Hou<br>
+<i><b>IEEE Journal on Selected Areas in Communications</b>, vol. 42, no. 9, pp. 2339-2353, Sept. 2024.</i><br>
+
+<br clear="left">
+
 
 Project Demo
 ======
