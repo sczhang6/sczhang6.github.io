@@ -60,6 +60,16 @@ Hossein Pirayesh, <ins>Shichen Zhang</ins>, Pedram Kheirkhah Sangdeh, and Huache
 Hossein Pirayesh, Pedram Kheirkhah Sangdeh, <ins>Shichen Zhang</ins>, Qiben Yan, and Huacheng Zeng  
 **IEEE SECON 2021**.  
 
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+  <img src="/images/Radsee_teaser.png" alt="RadSee Thumbnail" style="width: 80px; height: auto; margin-right: 15px;">
+  <div>
+    **RadSee: See Your Handwriting Through Wall Using 6GHz FMCW Radar**  
+    <ins>Shichen Zhang</ins>, Qijun Wang, Maolin Gan, Zhichao Cao, and Huacheng Zeng  
+    **NDSS Symposium 2025** (Acceptance Rate: 19.8%)  
+    [PDF](files/Shichen25_NDSS_Radsee.pdf)
+  </div>
+</div>
+
 
 Project Demo
 ======
