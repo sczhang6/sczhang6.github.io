@@ -61,17 +61,26 @@ Hossein Pirayesh, Pedram Kheirkhah Sangdeh, <ins>Shichen Zhang</ins>, Qiben Yan,
 **IEEE SECON 2021**.  
 
 <img src="/images/Radsee_teaser.png" align="left" style="vertical-align: middle; width: 233px; height: 130px;">
-<b>RadSee: See Your Handwriting Through Wall Using 6GHz FMCW Radar</b> <i>[[PDF]](/files/Shichen25_NDSS_Radsee.pdf)<br>
+<b>RadSee: See Your Handwriting Through Wall Using 6GHz FMCW Radar</b> <I>[[PDF]](/files/Shichen25_NDSS_Radsee.pdf)</i><br>
 <b>Shichen Zhang</b>, Qijun Wang, Maolin Gan, Zhichao Cao and Huacheng Zeng<br>
 <I><b>NDSS Symposium 2025</b> \[Acceptance rate: 19.8%\]</i> <br>
 
 <br>
 
-![image](/images/Radsee_teaser.png){: style="float: left; margin-top: 0.3em; margin-right: 1em;" width="200"}
-RadSee: See Your Handwriting Through Wall Using 6GHz FMCW Radar.<br>
-  **Shichen Zhang**, Qijun Wang, Maolin Gan, Zhichao Cao and Huacheng Zeng.<br>
-  **NDSS Symposium 2025**. \[Acceptance rate: 19.8%\]<br>
-  [[pdf](/files/Shichen25_NDSS_Radsee.pdf)]
+<img src="/images/Swis_teaser.png" align="left" style="vertical-align: middle; width: 233px; height: 130px;">
+<b>SiWiS: Fine-grained Human Detection Using Single WiFi Device</b> <I>[[PDF]](/files/mobicom24-final.pdf)</i><br>
+Kunzhe Song, Qijun Wang, <b>Shichen Zhang</b>, and Huacheng Zeng<br>
+<I><b>ACM MobiCom 2024</b> \[Acceptance rate: 19.1%\]</i> <br>
+
+<br>
+
+<img src="/images/Rinf_teaser.png" align="left" style="vertical-align: middle; width: 233px; height: 130px;">
+<b>Structured Reinforcement Learning for Delay-Optimal Data Transmission in Dense mmWave
+Networks</b> <I>[[PDF]](/files/RL_Dense_mmWave_IEEE_TWC_2024.pdf)</i><br>
+Shufan Wang, Guojun Xiong, <b>Shichen Zhang</b>, Huacheng Zeng, Jian Li, and Shivendra Panwar  
+<I><b>IEEE Transactions on Wireless Communications</b>,2024</i> <br>
+
+<br>
 
 
 Project Demo
