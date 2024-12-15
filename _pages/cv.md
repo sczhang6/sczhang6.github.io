@@ -28,6 +28,8 @@ Professional Services
   * IEEE Journal on Selected Areas in Communcations (JSAC)
   * IEEE Transactions on Communication (TCOM)
   * IEEE Transactions on Vehicular Technology (TVT)
+  * IEEE Transactions on Cognitive Communications and Networking (TCCN) 
+  * IEEE Transactions on Machine Learning in Communications and Networking (TMLCN)    
   
 Awards
 ======
