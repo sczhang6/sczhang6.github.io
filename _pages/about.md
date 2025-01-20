@@ -11,7 +11,11 @@ Hello! I'm a Ph.D. candidate in the Department of Computer Science and Engineeri
 
 Previously, I reveived my B.Eng. degree from Beijing Univeristy of Technology and M.Eng. degree from Cornell University. 
 
-  
+
+News
+======
+* [01/2025] One paper accepted to **CHI'25**.   
+
 Publications 
 ======
 <img src="/images/Radsee_teaser.png" align="left" style="vertical-align: middle; width: 233px; height: 130px;  margin-right: 15px;">
