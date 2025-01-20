@@ -14,7 +14,7 @@ Previously, I reveived my B.Eng. degree from Beijing Univeristy of Technology an
 
 News
 ======
-* [01/2025] Paper accepted: "RadEye: Tracking Eye Motion Using FMCW Radar ". Accepted in CHI 2025.   
+* [01/2025] Paper accepted: "RadEye: Tracking Eye Motion Using FMCW Radar ". Accepted in **CHI'25**.   
 
 Publications 
 ======
