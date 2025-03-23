@@ -11,7 +11,7 @@ Hello! I'm a Ph.D. candidate in the Department of Computer Science and Engineeri
 
 Previously, I reveived my B.Eng. degree from Beijing Univeristy of Technology and M.Eng. degree from Cornell University. 
 
-<p style="color: red;"><b>I am currently seeking job opportunities for 2024–2025—please feel free to reach out if there are any openings.</b></p>
+<p style="color: red;"><b>I am on the job market for 2024–2025, please feel free to reach out if there are any openings.</b></p>
 
 News
 ======
