@@ -24,7 +24,7 @@ Publications
 
 <b>RadEye: Tracking Eye Motion Using FMCW Radar</b> <I>[[PDF]](/files/Shichen25_CHI_Radeye.pdf)</i><br>
 <b>Shichen Zhang</b>, Qijun Wang, Kunzhe Song, Qiben Yan and Huacheng Zeng<br>
-<I><b>CHI 2025</b> 
+<I><b>CHI 2025</b> <p style="color: red;"><b>\[Honorable Mention recognition (top 5%)\]</b></p>
 
 <br clear="left">
 
