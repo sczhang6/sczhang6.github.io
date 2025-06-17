@@ -7,13 +7,15 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I'm a Ph.D. candidate in the Department of Computer Science and Engineering at Michigan State University, working in the [INSS lab](https://inss.egr.msu.edu), under the supervision of [Dr. Huacheng Zeng](https://inss.egr.msu.edu/team.html). My research areas include wireless networking and sensing, mobile computing, and artificial intelligence.  
+Hello! I'm an incoming Assistant Professor at the Bellini College of Artificial Intelligence, Cybersecurity, and Computing at the University of South Florida (USF). I received my Ph.D. from the Department of Computer Science and Engineering at Michigan State University, where I worked in the [INSS lab](https://inss.egr.msu.edu), under the supervision of [Dr. Huacheng Zeng](https://inss.egr.msu.edu/team.html). My research areas include wireless sensing, wireless networking, mobile computing, and artificial intelligence.  
 
 Previously, I reveived my B.Eng. degree from Beijing Univeristy of Technology and M.Eng. degree from Cornell University. 
 
 
 News
 ======
+* [06/2025] I am happy to announce that I have successfully defended my dissertation and will be joining the Bellini College of Artificial Intelligence, Cybersecurity, and Computing at the University of South Florida (USF) as a tenure-track Assistant Professor this fall.  
+
 * [01/2025] Paper accepted: "RadEye: Tracking Eye Motion Using FMCW Radar ". Accepted in **CHI'25**.   
 
 Publications 
