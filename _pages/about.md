@@ -9,10 +9,29 @@ redirect_from:
 
 Hello! I'm an incoming Assistant Professor at the [Bellini College of Artificial Intelligence, Cybersecurity and Computing](https://www.usf.edu/ai-cybersecurity-computing/) at the [University of South Florida (USF)](https://www.usf.edu). 
 
-I received my Ph.D. from the Department of Computer Science and Engineering at Michigan State University, where I worked in the [INSS lab](https://inss.egr.msu.edu), under the supervision of [Dr. Huacheng Zeng](https://inss.egr.msu.edu/team.html). My research areas include wireless sensing, wireless networking, mobile computing, and artificial intelligence.  
+I received my Ph.D. from the Department of Computer Science and Engineering at Michigan State University, where I worked in the [INSS lab](https://inss.egr.msu.edu), under the supervision of [Dr. Huacheng Zeng](https://inss.egr.msu.edu/team.html). Previously, I received my M.Eng. degree from the School of Electrical and Computer Engineering at Cornell University.
 
-Previously, I reveived my B.Eng. degree from Beijing Univeristy of Technology and M.Eng. degree from Cornell University. 
+Openings 
+======
+I am actively seeking **self-motivated Ph.D. students** to join my group in **Spring 2026** or **Fall 2026**. A strong background in **wireless sensing**, **wireless networking**, and/or **deep learning** is highly desirable.
 
+If you are interested, please feel free to email me at **szhang1 [at] usf.edu** with the following materials:
+
+- CV 
+- Transcripts (B.S. and M.S.)  
+- Any published papers (if applicable)  
+- TOEFL scores (for international applicants)  
+- Any other supplementary materials that help me learn more about you  
+
+
+Reserach Interests
+======
+**Wireless + AI**
+* Wireless Sensing
+* Wireless Networking
+* Integrated Sensing and Communication (ISAC)
+* Human-Computer Interaction
+* Deep learning 
 
 News
 ======
