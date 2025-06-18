@@ -30,5 +30,4 @@ With the rapid proliferation of mobile devices, the marriage of millimeter-wave 
 
 <br>
 
-<body>
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=n&d=XnBiPwE1M7VX53IjAt_1zAUkN3D9FZS8_tJKHgrgEkc&co=2d78ad&cmo=3acc3a&cmn=ff5353&ct=ffffff'></script></body>
+
