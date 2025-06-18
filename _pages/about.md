@@ -13,20 +13,15 @@ I received my Ph.D. from the Department of Computer Science and Engineering at M
 
 Openings 
 ======
-I am actively seeking **self-motivated Ph.D. students** to join my group in **Spring 2026** or **Fall 2026**. A strong background in **wireless sensing**, **wireless networking**, and/or **deep learning** is highly desirable.
+<span style="color:blue">
+I am actively seeking <strong>self-motivated Ph.D. students</strong> to join my group in <strong>Spring 2026</strong> or <strong>Fall 2026</strong>. A strong background in <strong>wireless sensing</strong>, <strong>wireless networking</strong>, and/or <strong>deep learning</strong> is highly desirable.
 
-If you are interested, please feel free to email me at **szhang1 [at] usf.edu** with the following materials:
-
-- CV 
-- Transcripts (B.S. and M.S.)  
-- Any published papers (if applicable)  
-- TOEFL scores (for international applicants)  
-- Any other supplementary materials that help me learn more about you  
+If you are interested, please feel free to email me at <strong>szhang1 [at] usf.edu</strong> with the following materials: your CV, transcripts (B.S. and M.S.), any published papers (if applicable), TOEFL scores, and any other supplementary materials that help me learn more about you. Selected candidates will receive a full assistantship.
+</span>
 
 
 Reserach Interests
 ======
-**Wireless + AI**
 * Wireless Sensing
 * Wireless Networking
 * Integrated Sensing and Communication (ISAC)
