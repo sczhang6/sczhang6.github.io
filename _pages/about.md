@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I'm an incoming Assistant Professor at the [Bellini College of Artificial Intelligence, Cybersecurity and Computing](https://www.usf.edu/ai-cybersecurity-computing/) at the [University of South Florida (USF)](https://www.usf.edu). 
+Hello! I'm an Assistant Professor at the [Bellini College of Artificial Intelligence, Cybersecurity and Computing](https://www.usf.edu/ai-cybersecurity-computing/) at the [University of South Florida (USF)](https://www.usf.edu). 
 
 I received my Ph.D. from the Department of Computer Science and Engineering at Michigan State University, where I worked in the [INSS lab](https://inss.egr.msu.edu), under the supervision of [Dr. Huacheng Zeng](https://inss.egr.msu.edu/team.html). Previously, I received my M.Eng. degree from the School of Electrical and Computer Engineering at Cornell University.
 
@@ -34,7 +34,7 @@ News
 * [09/2025] Our paper *"A Batteryless Wireless Microphone using RF Backscatter"* has been accepted by **IMWUT'25**.
 * [06/2025] I am happy to announce that I have successfully defended my dissertation and will be joining the Bellini College of Artificial Intelligence, Cybersecurity, and Computing at the University of South Florida (USF) as a tenure-track Assistant Professor this fall.  
 
-* [01/2025] Paper accepted: "RadEye: Tracking Eye Motion Using FMCW Radar ". Accepted in **CHI'25**.   
+* [01/2025] Paper accepted: *"RadEye: Tracking Eye Motion Using FMCW Radar"*. Accepted in **CHI'25**.   
 
 
 <body>
