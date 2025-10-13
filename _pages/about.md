@@ -31,6 +31,7 @@ Reserach Interests
 
 News
 ======
+* [09/2025] Our paper *"A Batteryless Wireless Microphone using RF Backscatter"* has been accepted by **IMWUT'25**.
 * [06/2025] I am happy to announce that I have successfully defended my dissertation and will be joining the Bellini College of Artificial Intelligence, Cybersecurity, and Computing at the University of South Florida (USF) as a tenure-track Assistant Professor this fall.  
 
 * [01/2025] Paper accepted: "RadEye: Tracking Eye Motion Using FMCW Radar ". Accepted in **CHI'25**.   
