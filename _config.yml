@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "usf2p.jpg"
+  avatar           : "usf2p.JPG"
   name             : "Shichen Zhang"
   pronouns         : # example: "she/her"  
   bio              : "Assistant Professor at University of South Florida"
