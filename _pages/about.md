@@ -19,7 +19,9 @@ I am actively seeking self-motivated Ph.D. students to join my group in <strong>
 
 If you are interested, please feel free to email me at <strong>szhang1 [at] usf.edu</strong> with the following materials: your CV, transcripts (B.S. and M.S.), any published papers (if applicable), TOEFL scores, and any other supplementary materials that help me learn more about you. Selected candidates will receive a full assistantship.
 
+<span style="color:blue">
 I am also looking for undergraduate and master’s students at USF to work with me on cutting-edge research projects. If you are interested, please send me your CV and transcript.
+</span>
 
 Reserach Interests
 ======
