@@ -8,7 +8,7 @@ author_profile: true
 Tianhao Wang (2026 Fall - present)    
 Farhan Mahmud (2026 Fall - present)     
 
-**Masster Students**  
+**Master Students**  
 Sanjay Malla (2025 Fall - present) 
 
 
