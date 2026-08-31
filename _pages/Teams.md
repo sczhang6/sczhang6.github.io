@@ -42,7 +42,7 @@ author_profile: true
          style="width: 160px; height: 160px; object-fit: cover; border-radius: 50%;">
     
     <h3 style="margin-bottom: 5px;">Sanjay Malla</h3>
-    Email: sanjaymalla@usf.edu@usf.edu<br>
+    Email: sanjaymalla@usf.edu<br>
     Aug. 2025 – Present<br>
   
   </div>
