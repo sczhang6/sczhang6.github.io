@@ -34,18 +34,7 @@ author_profile: true
 
 </div>
 
-**Master Students**  
-<div style="display: flex; flex-wrap: wrap; gap: 50px;">
 
-  <div style="width: 280px; text-align: center;">
-    <img src="/images/Headshot_sanjay.png"
-         style="width: 160px; height: 160px; object-fit: cover; border-radius: 50%;">
-    
-    <h3 style="margin-bottom: 5px;">Sanjay Malla</h3>
-    Email: sanjaymalla@usf.edu<br>
-    Aug. 2025 – Present<br>
-  
-  </div>
 
 
 
