@@ -17,7 +17,7 @@ Openings
 I am actively seeking self-motivated Ph.D. students to join my group in <strong>Spring/Fall 2027</strong>. A strong background in <strong>wireless sensing</strong>, <strong>wireless networking</strong>, and <strong>deep learning</strong> is highly desirable.
 </span>
 
-If you are interested, please feel free to email me at <strong>szhang1 [at] usf.edu</strong> with the following materials: your CV, transcripts (B.S. and M.S.), any published papers (if applicable), TOEFL scores, and any other supplementary materials that help me learn more about you. Selected candidates will receive a full assistantship.
+If you are interested, please fill out the <strong><a href="https://docs.google.com/forms/d/e/1FAIpQLScQILch9JQ32c1KyYex4jd_XUBfAHQ3SmHxT_eQAtNM8xZmUQ/viewform?usp=dialog" target="_blank">Prospective Ph.D. Student Survey</a></strong> and feel free to email me at <strong>szhang1 [at] usf.edu</strong> with the following materials: your CV, transcripts (B.S. and M.S.), any published papers (if applicable), TOEFL/IELTS scores, and any other supplementary materials that help me learn more about you.
 
 <span style="color:blue">
 I am also looking for undergraduate and master’s students at USF to work with me on cutting-edge research projects. If you are interested, please send me your CV and transcript.
